@@ -1,0 +1,144 @@
+body{
+	font-family:'Open Sans', sans-serif;
+	margin:auto;
+	width:900px;
+}
+header div{
+	height: 425px;
+	position:relative;
+}
+header div img{
+	background-size:contain;
+	position:absolute;
+	width:100%;
+	height:100%;
+}
+header div h1{
+	margin:0;
+	z-index:2;
+	position: relative;
+	font-size: 24px;
+	font-weight:800;
+	padding: 15px 0 0 70px;
+	color:white;
+}
+header div h2{
+	margin:0;
+	font-size:24px;
+	position:relative;
+	font-weight:600;
+	text-align: center;
+	padding-top: 80px;
+	color:white;
+}
+header div button{
+	background:#f9e42e;
+	color:black;
+	position: relative;
+	text-align: center;
+	font-size:14px;
+	font-weight: 800;
+	border-radius: 5px;
+	margin-top:50px;
+	height: 40px;
+	width: 200px;
+
+} 
+main div:first-child{
+	height:375px;
+	background: #f0efef;
+	padding-top:50px;
+	padding-left: 50px;
+}
+main div:first-child h2{
+	color: #033048;
+	font-size: 20px;
+	font-weight:600;
+	margin:0;
+}
+main div:first-child p{
+	font-size: 13px;
+	font-weight: 300;
+}
+main div:first-child ul{
+	font-size:13px;
+	font-weight:300;
+}
+main div:nth-child(2){
+	height:250px;
+	position:relative;
+}
+main div:nth-child(2) img{
+	position: absolute;
+	background-size:contain;
+	width:100%;
+	height:100%;
+}
+main div:nth-child(2) p{
+	margin:0;
+	z-index:2;
+	color: white;
+	position: relative;
+	font-weight: 300;
+	font-style:italic;
+	padding-top: 50px;
+	font-size:18px;
+}
+main div:nth-child(2) h2{
+	font-size:18px;
+	font-weight:600;
+	position: relative;
+	z-index:2;
+	color:white;
+}
+main div:nth-child(3){
+	height:75px;
+	background: #f9e42e;
+}
+main div:nth-child(3) button{
+	background:#033048;
+	color:white;
+	text-align: center;
+	font-size:12px;
+	font-weight: 800;
+	border-radius: 5px;
+	height: 40px;
+	width: 200px;
+	margin-top: 17px;
+}
+footer div{
+	height:200px;
+	background: #121212;
+}
+footer div h1{
+	font-size:24px;
+	color:#f9e42e;
+	font-weight:800;
+	text-align:center;
+	margin:0;
+	padding:40px;
+}
+footer div h5{
+	color:white;
+	font-size:9px;
+	font-weight:300;
+	text-align:center;
+}
+footer div img{
+	height: 20px;
+	padding-top: 0px;
+	padding-bottom:25px;
+}
+footer div img:nth-child(2){
+	padding-left:25px;
+}
+
+
+
+
+
+
+
+
+
+

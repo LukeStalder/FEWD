@@ -1,0 +1,29 @@
+ul{
+	text-align: center;
+	padding: 0px 5px 0px 0px;
+	background:black;
+	padding: 0 50px 0 50px;
+	margin:0 400px 0 400px;
+	color:white;
+}
+ul li{
+	display: inline;
+}
+h1{
+	text-align: center;
+	padding-bottom: 30px;
+	font-size: 50px;
+}
+.intro{
+	border-top: 1px solid black;
+	padding: 20px 50px 0px 50px;
+}
+a{
+	color: white;
+	padding: 0 5px 0 5px;
+}
+body{
+	 background: linear-gradient(bottom, rgba(0,0,0,1), top, rgba(255,0,0,.4));
+	 background: -webkit-linear-gradient(bottom, rgba(0,50,50,1), top, rgba(100,0,0,.4));
+	 background-size: cover;
+}
